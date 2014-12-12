@@ -8,3 +8,6 @@ Testing branch again
 Add merge
 Test Fast forward
 haha
+Test Fast forward again
+Test hello
+Hello git
