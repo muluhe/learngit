@@ -7,3 +7,4 @@ Creating a test branch dev.
 Testing branch again
 Add merge
 Test Fast forward
+Test Fast forward again
