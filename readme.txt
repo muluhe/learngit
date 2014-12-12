@@ -5,3 +5,4 @@ Testing branch
 Creating a test branch feature1.
 Creating a test branch dev.
 Testing branch again
+Add merge
