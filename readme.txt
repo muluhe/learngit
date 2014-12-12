@@ -7,6 +7,9 @@ Creating a test branch dev.
 Testing branch again
 Add merge
 Test Fast forward
+haha
 Test Fast forward again
 haha
 Test hello
+Hello git
+whatis
