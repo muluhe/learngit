@@ -9,3 +9,4 @@ Add merge
 Test Fast forward
 Test Fast forward again
 Test hello
+Hello git
